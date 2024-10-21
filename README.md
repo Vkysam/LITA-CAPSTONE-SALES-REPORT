@@ -51,7 +51,7 @@ EDA involved the exploration of the data to answer some questions about the Data
 -what is the overall sales trend?
 -what region has the highest sales?
 
-### DATA ANALYSIS 
+### DATA ANALYSIS- SQL
 ```SQL
 SELECT * FROM [LITA CAPSTONE DATASET_1]
 WHERE CONDITION =
@@ -103,6 +103,8 @@ GROUP BY
 ORDER BY
   SUM(quantity) DESC;
 ```
+
+### ANALYSIS- EXCEL
 
 
 
