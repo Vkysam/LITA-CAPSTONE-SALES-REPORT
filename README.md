@@ -110,4 +110,12 @@ ORDER BY
 
 
 ### DATA VISUALIZATION
+![Screenshot 2024-10-21 010406](https://github.com/user-attachments/assets/4da46a9d-72a4-4d7a-94cf-c4d5c56e0c20)
+
+![Screenshot 2024-10-21 012250](https://github.com/user-attachments/assets/4f98a0f2-6515-4408-afd9-6d47e2853032)
+
+![Screenshot 2024-10-21 012326](https://github.com/user-attachments/assets/0de97086-00c3-46d9-ac53-03ad16156b09)
+
+
+
 
