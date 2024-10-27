@@ -32,7 +32,7 @@ POWER BI
 - Microsoft Excel [Download here](https://www.microsoft.com)
 1. Data cleaning
 2. Data Visualization
-3. calcutions
+3. calculations
 4. Analysis
 - SQL-structured query language for data querrying
 - Github- for porfolio Building
@@ -108,6 +108,9 @@ ORDER BY
   SUM(quantity) DESC;
 ```
 
+
+### DATA VISUALIZATION
+
 ### ANALYSIS- USING EXCEL PIVOT TABLES
 ![Screenshot 2024-10-25 035030](https://github.com/user-attachments/assets/655589fb-7b8f-430c-9a2a-25bde47d5f56)
 
@@ -119,7 +122,6 @@ ORDER BY
 
 
 
-### DATA VISUALIZATION
 
 ### CUSTOMER DATA ON PACKAGE SUBSCRIPTION
 
