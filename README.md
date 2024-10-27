@@ -108,32 +108,18 @@ ORDER BY
   SUM(quantity) DESC;
 ```
 
-### ANALYSIS- EXCEL
+### ANALYSIS- USING EXCEL PIVOT TABLES
+![Screenshot 2024-10-25 035030](https://github.com/user-attachments/assets/655589fb-7b8f-430c-9a2a-25bde47d5f56)
+
+![Screenshot 2024-10-17 161255](https://github.com/user-attachments/assets/bbd08bb0-6f65-42d6-a477-645967dbcb5e)
+
+![Screenshot 2024-10-17 161202](https://github.com/user-attachments/assets/63e37448-ed01-4df6-9749-f43d7f203572)
+
 
 
 
 
 ### DATA VISUALIZATION
-![Screenshot 2024-10-21 010406](https://github.com/user-attachments/assets/4da46a9d-72a4-4d7a-94cf-c4d5c56e0c20)
-
-![Screenshot 2024-10-21 012250](https://github.com/user-attachments/assets/4f98a0f2-6515-4408-afd9-6d47e2853032)
-
-![Screenshot 2024-10-21 012326](https://github.com/user-attachments/assets/0de97086-00c3-46d9-ac53-03ad16156b09)
-
-![Screenshot 2024-10-21 013013](https://github.com/user-attachments/assets/a3de15fb-24dd-4f18-aa66-6473ca090421)
-
-![Screenshot 2024-10-21 013250](https://github.com/user-attachments/assets/87868a84-4387-4e8f-ad0c-600e0377d649)
-
-![Screenshot 2024-10-21 094117](https://github.com/user-attachments/assets/2576c718-37d9-4586-a4db-e6858cb55295)
-
-![Screenshot 2024-10-21 085259](https://github.com/user-attachments/assets/faf8f501-7c10-4f15-9aee-7183eeb01827)
-
-![Screenshot 2024-10-21 030209](https://github.com/user-attachments/assets/5995e36a-62b9-4064-a020-99f890c76012)
-
-![Screenshot 2024-10-21 013551](https://github.com/user-attachments/assets/bde88f18-379e-4558-9616-ff41ad93e3ee)
-
-![Screenshot 2024-10-21 085259](https://github.com/user-attachments/assets/8583aeec-eea5-444e-8c24-6d6387a347de)
-
 
 ### CUSTOMER DATA ON PACKAGE SUBSCRIPTION
 
