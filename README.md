@@ -111,12 +111,14 @@ ORDER BY
 
 ### DATA VISUALIZATION
 
-### ANALYSIS- USING EXCEL PIVOT TABLES
+### ANALYSIS
 ![Screenshot 2024-10-25 035030](https://github.com/user-attachments/assets/655589fb-7b8f-430c-9a2a-25bde47d5f56)
 
 ![Screenshot 2024-10-17 161255](https://github.com/user-attachments/assets/bbd08bb0-6f65-42d6-a477-645967dbcb5e)
 
 ![Screenshot 2024-10-17 161202](https://github.com/user-attachments/assets/63e37448-ed01-4df6-9749-f43d7f203572)
+
+![Screenshot 2024-10-28 123532](https://github.com/user-attachments/assets/82c125c1-cb5d-4cfd-b9f9-725d7af9ce11)
 
 
 
