@@ -136,16 +136,6 @@ ORDER BY
 
 
 
-### CUSTOMER DATA ON PACKAGE SUBSCRIPTION
-
-![Screenshot 2024-10-21 104818](https://github.com/user-attachments/assets/cc6e434d-7726-4b3d-8946-a8c5eb18b6bc)
-
-![Screenshot 2024-10-21 104833](https://github.com/user-attachments/assets/74019b63-abf0-4d2d-acf6-6a7dd1905bc7)
-
-![Screenshot 2024-10-21 104347](https://github.com/user-attachments/assets/1cc4a4c0-3f1b-4eda-b243-8a9f8102b01d)
-
-![Screenshot 2024-10-21 104333](https://github.com/user-attachments/assets/c6f3f258-97f6-4e72-9448-557f11ffe3a4)
-
 
 
 💻
