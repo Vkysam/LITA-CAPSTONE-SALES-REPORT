@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-SALES-REPORT
+### LITA-CAPSTONE-SALES-REPORT
 
 [Goal](#goal)
 [Description](#Description)
@@ -17,8 +17,7 @@ THE DATASET CONTAINS RECORDS ON CAPSTONE SALES PERFORMANCE BY REGION, QUANTITY S
 
 ### PROJECT OVERVIEW
 
-This data Analysis project aims to give insights on the sales performance pf the CAPSTONE DATASET AND THE SUBSCRIPTION DATASET
-project for a period of two years. These analysis will help make informed decisions for a possible growth strategies.
+This data Analysis project aims to give insights on the sales performance pf the CAPSTONE DATASET project for a period of two years. These analysis will help make informed decisions for a possible growth strategies.
 
 ### SUMMARY
 
