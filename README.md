@@ -1,4 +1,4 @@
-### LITA-CAPSTONE-SALES-REPORT
+### PROJECT TITLE: LITA-CAPSTONE-SALES-REPORT
 
 [Goal](#goal)
 [Description](#Description)
